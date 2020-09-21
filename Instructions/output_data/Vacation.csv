@@ -1,69 +1,75 @@
 City,Country,Latitude,Longitude,Temperature (F),Humidity (%),Cloudiness (%),Wind Speed (mph),Hotel Name
-Vostok,RU,46.49,135.88,53.29,96,0,1.88,
-East London,ZA,-33.02,27.91,68.7,44,0,5.82,Tu Casa
-Chokurdakh,RU,70.63,147.92,39.43,74,0,12.12,
-Sisimiut,GL,66.94,-53.67,52.59,50,0,10.54,Hotel Sisimiut
-Manama,BH,26.22,50.58,95.0,50,0,4.7,Al Safir Hotel & Tower
-Maragogi,BR,-9.01,-35.22,79.74,64,0,7.36,Salinas do Maragogi All Inclusive Resort
-Marsh Harbour,BS,26.54,-77.06,85.69,67,0,11.25,Abaco Beach Resort
-Nelson Bay,AU,-32.72,152.15,48.61,93,0,1.12,Mantra Nelson Bay
-Veselynove,UA,47.36,31.23,79.77,45,0,9.46,Золотой фазан
-Lithakia,GR,37.72,20.83,89.6,52,0,4.7,Zante Plaza Hotel & Apartments
-Kumluca,TR,36.37,30.29,89.2,32,0,8.37,TurkuazKöy
-Morondava,MG,-20.28,44.28,75.9,68,0,12.82,La Case Bambou
-Hwange,ZW,-18.37,26.5,67.14,39,0,2.93,Hwange Colliery Guest House
-Yar-Sale,RU,66.83,70.83,55.83,56,0,5.84,Yalemd
-Carnarvon,AU,-24.87,113.63,65.75,61,0,22.44,Hospitality Carnarvon
-Opuwo,,-18.06,13.84,75.22,18,0,9.64,ABBA Guesthouse
-Guerrero Negro,MX,27.98,-114.06,71.73,53,0,11.59,"Casa Laguna, Bed & Breakfast"
-Namysłów,PL,51.08,17.72,84.2,42,0,9.17,Hotel Zorza
-Mhlume,SZ,-26.03,31.85,66.0,63,0,5.46,
-Port Macquarie,AU,-31.43,152.92,43.0,97,0,6.2,Rydges Port Macquarie
-Sirte,LY,31.21,16.59,81.36,52,0,10.58,City Hotel
-Port Elizabeth,ZA,-33.92,25.57,66.2,48,0,8.05,39 On Nile Guest House
-Kruisfontein,ZA,-34.0,24.73,57.87,60,0,7.43,Oyster Bay House Rental
-Goderich,CA,43.75,-81.72,72.34,69,0,9.28,Harmony Inn
-Villazón,BO,-22.09,-65.59,50.56,31,0,3.98,La Candelaria
-Winburg,ZA,-28.52,27.01,47.59,53,0,4.99,Hotel Winburg
-Port Alfred,ZA,-33.59,26.89,66.99,48,0,3.0,The Halyards Hotel
-Castro,BR,-24.79,-50.01,54.1,62,0,12.75,CHACARA BAILLY
-Rāvar,IR,31.27,56.81,86.97,13,0,4.85,computertik
-Kalety,PL,50.56,18.89,81.52,51,0,12.75,Banderoza
-Richards Bay,ZA,-28.78,32.04,65.64,71,0,12.95,BON Hotel Waterfront Richards Bay
-Lüderitz,,-26.65,15.16,84.2,16,0,10.29,LÜDERITZ NEST HOTEL
-Talavera de la Reina,ES,39.96,-4.83,95.94,15,0,13.09,Be Live City Center Talavera
-Crotone,IT,39.09,17.12,89.6,38,0,12.75,Helios Hotel
-Orkney,ZA,-26.98,26.67,57.69,37,0,3.98,Hole in One Guest House Orkney
-Okakarara,,-20.58,17.43,66.56,24,0,7.2,"Okahitua, Omaboro City"
-Morunglav,RO,44.47,24.12,87.8,40,0,4.7,
-Port Shepstone,ZA,-30.74,30.45,66.38,76,0,16.6,My Den Beachfront B&B And Self-Catering
-Jalu,LY,29.03,21.55,97.92,9,0,11.99,Jalu Hotel
-Grand Gaube,MU,-20.01,57.66,68.0,76,0,1.01,Veranda Paul et Virginie Hotel & Spa
-Flinders,AU,-34.58,150.86,53.33,81,0,1.01,Shellharbour Resort & Conference Centre
-Yulara,AU,-25.24,130.99,52.63,50,0,9.42,Desert Gardens Hotel - Ayers Rock Resort
-Arlit,NE,18.74,7.39,109.67,6,0,13.94,Hôtel Telwa Bungalow
-Maputo,MZ,-25.97,32.59,69.39,56,0,9.17,Pestana Rovuma
-Tucuruí,BR,-3.77,-49.67,88.7,56,0,3.76,BBB Rooms Centro Tucurui PA
-Presidencia Roque Sáenz Peña,AR,-26.79,-60.44,60.12,48,0,4.25,Hotel Aconcagua
-San Juan,AR,-31.54,-68.54,51.93,44,0,3.65,Hotel Provincial
-Mossamedes,AO,-15.2,12.15,73.0,58,0,9.71,Hotel Chik Chik Namibe
-Aykhal,RU,66.0,111.5,66.2,45,0,4.47,
-Danielskuil,ZA,-28.19,23.54,53.76,42,0,7.74,Botha'Sig Gastehuis
-Mandalī,IQ,33.75,45.55,99.64,11,0,14.27,بيت خالد امين
-Longyearbyen,SJ,78.22,15.64,50.0,46,0,10.29,"Radisson Blu Polar Hotel, Spitsbergen"
-Ahvāz,IR,31.32,48.67,109.4,13,0,4.7,tashrifat tourism travel agency
-Cap Malheureux,MU,-19.98,57.61,68.0,76,0,1.01,Pereybere Hotel & Spa
-Oranjemund,,-28.55,16.43,66.87,33,0,6.91,Fisherman's Cove
-Villamontes,BO,-21.25,-63.5,71.91,23,0,5.53,Hotel Raldes
-Assiut,EG,27.18,31.18,97.79,9,0,11.52,Florence Hotel Assiut
-Broken Hill,AU,-31.95,141.43,53.29,51,0,11.99,Daydream Motel & Cottages
-Pilikwe,BW,-22.8,27.19,58.68,56,0,8.12,
-Tūkrah,LY,32.53,20.58,79.75,65,0,10.38,استراحة لاقروتا
-Formello,IT,42.08,12.4,88.88,38,0,8.05,Antica Pietrara
-Ponta Porã,BR,-22.54,-55.73,57.2,44,0,11.41,Hotel Pousada do Bosque
-Olot,ES,42.18,2.49,88.83,35,0,1.99,Hotel Riu Fluvià
-Henties Bay,,-22.12,14.28,74.8,25,0,12.97,Fishermans Guest House
-Baghlan,AF,36.13,68.71,86.0,16,0,4.97,Habibullah MOsazai
-Clarence Town,AU,-32.58,151.78,49.12,93,0,1.12,River Downs Cottage
-Herat Province,AF,34.5,62.0,89.6,13,0,11.41,
-Charlestown,AU,-32.95,151.67,51.78,77,0,7.83,Panorama Motor Inn Hotel
+Kuito,AO,-12.38,16.93,57.61,43,0,3.02,Herdeiros de Antunes Capusso
+Ubari,LY,26.59,12.78,80.11,21,0,6.89,فندق أوباري
+Yar-Sale,RU,66.83,70.83,54.61,73,0,11.88,Yalemd
+Albany,US,42.6,-73.97,87.46,49,0,3.6,
+Busselton,AU,-33.65,115.33,34.97,87,0,7.0,Observatory Guest House
+Nouadhibou,MR,20.93,-17.03,80.6,54,0,20.8,El Medina
+Cidreira,BR,-30.18,-50.21,51.15,71,0,12.84,Hotel Castelo
+Porto Nacional,BR,-10.71,-48.42,80.6,44,0,4.7,Vila Real Hotel
+Zonguldak,TR,41.25,31.83,55.09,93,0,3.33,Süleyman Tez Ev
+Vila Velha,BR,-20.33,-40.29,75.2,88,0,6.93,Hotel Vitória Palace
+Barcelos,PT,41.54,-8.62,68.02,88,0,4.7,Hotel Do Terço
+Lüderitz,,-26.65,15.16,53.6,93,0,9.17,LÜDERITZ NEST HOTEL
+Iúna,BR,-20.35,-41.54,61.75,85,0,3.98,Hotel São Judas Tadeu
+Maxixe,MZ,-23.86,35.35,66.83,81,0,5.64,Oceano
+Lemta,TN,35.67,10.88,77.97,83,0,4.7,دار البريشني
+Luau,AO,-10.71,22.22,62.37,41,0,4.03,Kimbo Hotel
+Tiznit Province,MA,29.58,-9.5,69.67,48,0,0.96,
+Isparta Province,TR,38.0,31.0,73.4,53,0,17.22,FAME RESIDENCE LARA
+Usinsk,RU,65.99,57.53,66.83,81,0,12.71,Dobro Pozhalovaty
+Sechura,PE,-5.56,-80.82,67.68,68,0,19.17,Hospedaje Costa Bella
+Diego de Almagro,CL,-26.37,-70.05,52.59,48,0,3.02,hotel luna del desierto
+Alice Springs,AU,-23.7,133.88,41.0,48,0,4.7,Desert Palms Alice Springs
+Akdepe,TM,42.06,59.38,79.72,42,0,11.41,Мой дом
+Walvis Bay,,-22.96,14.51,51.84,81,0,5.82,Oyster Box Guesthouse
+Dikson,RU,73.51,80.55,42.46,84,0,13.71,
+Abu Samrah,SY,35.3,37.18,69.69,69,0,9.19,
+Yulara,AU,-25.24,130.99,37.4,47,0,5.82,Desert Gardens Hotel - Ayers Rock Resort
+Varna,BG,43.22,27.92,60.64,82,0,3.36,GOLDEN TULIP VARNA
+Andria,IT,41.23,16.29,63.3,72,0,6.93,Cristal Palace Hotel
+Shar,KZ,49.59,81.05,66.58,66,0,6.55,
+Capaci,IT,38.17,13.24,76.75,78,0,9.17,Hotel Sirenetta
+Mahajanga,MG,-15.72,46.32,71.35,53,0,18.77,Restaurant Greedy Coco Lodge Majunga
+Hūn,LY,29.13,15.95,77.32,62,0,6.58,Alrwasi Hotel
+Tūkrah,LY,32.53,20.58,75.04,78,0,16.17,استراحة لاقروتا
+Stelnica,RO,44.42,27.88,64.2,72,0,3.36,Motel La Popescu
+Mossamedes,AO,-15.2,12.15,61.86,81,0,8.68,Hotel Chik Chik Namibe
+Vao,NC,-22.67,167.48,67.35,71,0,20.89,Hotel Kou-Bugny
+Nurota,UZ,40.56,65.69,75.2,27,0,9.17,Guest House Ruslan Nurata & Tours
+Bayan,CN,46.08,127.4,80.01,51,0,10.58,Wanhao Inn
+Caravelas,BR,-17.71,-39.25,71.37,86,0,5.41,Pousada dos Navegantes
+San Vicente,AR,-26.62,-54.13,44.44,97,0,2.93,Complejo Turístico Farelluk
+Uyuni,BO,-20.46,-66.83,34.61,57,0,3.18,Hostal La Magia de Uyuni
+Birjand,IR,32.87,59.22,75.2,16,0,15.08,Birjand Tourist Hotel
+Taoudenni,ML,22.68,-3.98,94.35,10,0,4.41,
+Bloemfontein,ZA,-29.12,26.21,50.0,66,0,8.05,Protea Hotel by Marriott Bloemfontein
+Nadym,RU,65.53,72.52,52.61,73,0,16.93,Apartment on Zvereva
+Petra,JO,30.32,35.48,62.83,76,0,3.44,Petra Palace Hotel
+Chekmagush,RU,55.13,54.66,70.07,83,0,3.24,Perekrestok
+Adeje,ES,28.12,-16.73,71.49,73,0,12.75,Gran Tacande Wellness & Relax Costa Adeje
+Makkah al Mukarramah,SA,21.43,39.83,88.66,13,0,7.85,Hotel Fairmont Makkah Clock Royal Tower
+Allanridge,ZA,-27.75,26.64,48.0,77,0,7.63,The Hatchery
+Malanje,AO,-9.54,16.34,62.92,66,0,6.71,Malanje Hotel
+Beira,MZ,-19.84,34.84,64.2,93,0,2.24,Beira Terrace Hotel
+Ponta do Sol,PT,32.67,-17.1,68.47,73,0,3.8,Hotel do Campo
+Ibiraçu,BR,-19.83,-40.37,75.2,88,0,6.93,Pousada João e Maria
+Parker,US,32.77,-97.8,93.54,55,0,1.99,Candlewood Suites Weatherford
+Obzor,BG,42.82,27.88,64.74,77,0,5.82,HVD Clubhotel Miramar
+Nevel',RU,56.02,29.93,48.52,94,0,4.94,Uyut
+San Lorenzo,PY,-25.33,-57.53,53.6,81,0,3.36,Ámbar Hotel
+Provincia di Pescara,IT,42.33,13.95,68.0,77,0,3.36,Casa Gavenniae
+Hurghada,EG,27.26,33.81,86.0,25,0,8.05,Sea Star Beau Rivage Hotel
+Naryan-Mar,RU,67.67,53.09,72.1,75,0,13.29,Hostel Agat
+Rundu,,-17.93,19.77,53.6,58,0,4.7,Millennia Estate
+Pangody,RU,65.85,74.49,53.83,69,0,18.81,Elizaveta Shevchuk's House
+Kalabo,ZM,-14.97,22.68,58.44,36,0,4.12,Sikakubete Guest House Kalabo Town Council
+Atar,MR,20.52,-13.05,96.22,10,0,6.69,Oumou Elghoura
+Calama,CL,-22.47,-68.93,64.4,2,0,12.75,Park Hotel Calama
+Collie,AU,-33.37,116.15,34.65,87,0,2.71,Collie Ridge
+Osa,RU,57.28,55.46,69.42,90,0,2.04,Гостиница Оса
+Sekoma,BW,-24.4,23.88,54.39,50,0,7.58,
+Inhambane,MZ,-23.86,35.38,67.87,79,0,6.42,Oceano
+Erenhot,CN,43.65,111.98,71.51,43,0,7.38,Erenhot Rurouni Youth Hostel
+La Providencia,MX,28.72,-111.58,96.04,46,0,15.99,
+Province of Trapani,IT,37.83,12.67,71.62,88,0,2.24,
