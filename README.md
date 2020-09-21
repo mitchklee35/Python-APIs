@@ -7,4 +7,4 @@ The CSV file is within the output_data along with the images of what I was able 
 # How to Run
 Open the jupyter notebook and run the functions starting with weather. Make sure your API key is working in “api_keys.py”. The file should create a CSV and you will be able to then run the VacationPy file. 
 # Result
-The result, showed correlations latitude and temperature which is obvious, but also slight negative correlations of windspeed. As well I was able to generate a list of great vacation spots that aren’t too hot or cold, and have low wind speeds 
+The result, showed correlations between latitude and temperature as well as a slight negative correlation of windspeed. As well I was able to generate a list of great vacation spots that aren’t too hot or cold, and have low wind speeds 
